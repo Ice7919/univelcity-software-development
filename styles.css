@@ -1,0 +1,51 @@
+body{
+    background-color: #FFE3CA;
+}
+h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Karla", sans-serif;
+    text-decoration: underline;
+}
+
+h2{
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+
+}
+
+p{
+    font-size: 20px;
+}
+
+
+div{
+    font-size: 20px;
+}
+
+.first{
+    width: 50%;
+    margin-left: 25%;
+}
+
+.second{
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
+}
+
+.third{
+    width 50%;
+    margin-left: 25%;
+}
+
+
+footer{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+}
